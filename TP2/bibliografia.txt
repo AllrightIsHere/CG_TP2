@@ -1,0 +1,8 @@
+Arquivos .obj:
+	-Cidade: https://free3d.com/3d-model/city-islands-63174.html
+	-Helicóptero: https://free3d.com/3d-model/uh-60-blackhawk-helicopter-93546.html
+
+Skybox: 
+	-Dia: https://www.mineimatorforums.com/index.php?/topic/54461-help-sky-texture-is-messed-up/
+	-Noite: https://www.unrealengine.com/marketplace/dynamic-universe-sky-sphere
+Música: https://www.youtube.com/watch?v=z5lUmOOO-9U
