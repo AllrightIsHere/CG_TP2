@@ -2,6 +2,7 @@
 Trabalho prático da disciplina Computação Gráfica semestre 2018.2 - CEFET/MG 
 
 Sistema Operacional: Ubuntu 18.04 LTS ou superior
+
 Para instalar as bibliotecas necessárias utilize o comando "make install" a partir do diretório Makefile
 Para compilação e execução utilize o comando "make run" a partir do diretório Makefile.
 
